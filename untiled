@@ -1,0 +1,9 @@
+Usar janelinhas de prompt para cadastrar um usuario,
+     com nome, 
+     login, 
+     senha, 
+     data de nascimento,
+     premium (booleano - dica usar confirm ao inves de prompt). Salvar esses dados em um objeto e imprimir no console.
+
+    Extra:
+    exibir tambem no console a idade do usuario no dia 08/03! calculada a partir da data de nascimento
